@@ -1,0 +1,81 @@
+{
+    "none": {
+        "displayName": "None"
+    },
+    "MATEShirt": {
+        "displayName": "MATE Shirt",
+        "resourceName": "MATE_shirt.glb",
+        "scale": {
+            "x": 1.14,
+            "y": 1,
+            "z": 1.24
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "SCSUShirt": {
+        "displayName": "SCSU Shirt",
+        "resourceName": "SCSU_shirt.glb",
+        "scale": {
+            "x": 1.14,
+            "y": 1,
+            "z": 1.24
+        },
+        "rotation": {
+            "x": 0,
+            "y": 270,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "MATE+Camera": {
+        "displayName": "MATE & Camera",
+        "resourceName": "MATE+camera.glb",
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "SCSU+Camera": {
+        "displayName": "SCSU & Camera",
+        "resourceName": "SCSU+camera.glb",
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    }
+}
